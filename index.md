@@ -1,37 +1,81 @@
-## Welcome to GitHub Pages
+# GoToクーポンまとめ　利用規約
 
-You can use the [editor on GitHub](https://github.com/mamacoro/goto_coupon/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+利用規約（以下「本規約」）は、Yuki Mama（以下「当方」）が提供する「GoToクーポンまとめ」（以下「本サービス」）をご利用頂く際の取扱いにつき定めるものです。 
+本規約に同意した上で本サービスをご利用ください。
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## 第1条 定義
 
-### Markdown
+本規約上で使用する用語の定義は、次に掲げるとおりとします。
+・「本サービス」とは、当方が運営するサービス(スマートフォンアプリ)及び関連するサービスをいいます
+・「サービスストア」とは、AppStore、GooglePlayのサービスをいいます
+・「利用者」とは、本サービスを利用する全ての方をいいます
+・「登録情報」とは、登録利用者が本サービスにて登録した情報の総称をいいます
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+## 第2条 本規約への同意
+利用者は、本利用規約に同意頂いた上で、本サービスを利用できるものとします。
+利用者が、本サービスをスマートフォンやその他の情報端末にダウンロードし、本規約への同意手続を行った時点で、利用者と当方との間で、本規約の諸規定に従った利用契約が成立するものとします。
 
-# Header 1
-## Header 2
-### Header 3
+## 第3条 規約の変更
 
-- Bulleted
-- List
+当方は、利用者の承諾を得ることなく、いつでも本規約の内容を改定することができるものとし、利用者はこれを異議なく承諾するものとします。
+変更された規約を本サービス利用時に同意手続を行った時点で、改定後の本規約の諸規定に従った利用契約が成立するものとします。
 
-1. Numbered
-2. List
+## 第4条 個人情報の取り扱い
+### 1.収集する情報
 
-**Bold** and _Italic_ and `Code` text
+本サービスのご利用に際して、以下の利用者情報を取得いたします。
 
-[Link](url) and ![Image](src)
-```
+### 1.1.本サービスの利用状況の収集
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+当方が配信する本サービスでは、広告配信のためにGoogle AdMobを使用する場合がございます。
+広告配信のために広告IDを取得していますが、個人を特定するためなどには使用しておりません。
+取得する情報、利用目的、第三者への提供等の詳細につきましては、以下のプライバシーポリシーのリンクよりご確認ください。
+[AdMob（Google Inc.）](https://policies.google.com/technologies/ads?hl=ja).
 
-### Jekyll Themes
+### 1.2. お問い合わせやご意見を頂く際の個人情報の収集
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/mamacoro/goto_coupon/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+• 1.2.1 送信元のメールアドレス、 端末を識別する情報 (ユーザーサポートID)
+• 1.2.2 お問い合わせ内容
 
-### Support or Contact
+### 1.3. アプリからの登録したクーポン・クチコミ情報
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+当方が配信する本サービスでは、本サービスを経由してクーポンやクチコミ情報をGoogle社が提供するFireStore上に保管いたします。
+該当の情報は他アプリユーザーが参照可能な情報として本サービスを介し公開いたします。
+また、登録情報の他に登録・更新日時・識別番号を保持します。
+これらの情報は問い合わせや通報機能の調査のために使用いたします。
+
+### 2.利用目的
+
+当方は、1.2 において収集した情報を、お問い合わせに対する返信のために利用いたします。
+また、1.2、1.3 において収集した情報を、本サービスの品質向上のために利用いたします。
+原則、第三者に個人を特定できる情報を提供することはありません。
+ただし、第5条にあげる禁止行為に該当する場合は例外とします。
+
+## 第5条 禁止行為
+
+本サービスの利用に際し、当方は、利用者に対し、次に掲げる行為を禁止します。
+当方において、利用者が禁止事項に違反したと認めた場合、投稿禁止措置などその他当方が必要と判断した措置を取ることができます。
+当方または第三者の知的財産権を侵害する行為
+当方または第三者の名誉・信用を毀損または不当に差別もしくは誹謗中傷する行為
+当方または第三者の財産を侵害する行為、または侵害する恐れのある行為
+当方または第三者に経済的損害を与える行為
+当方または第三者に対する脅迫的な行為
+本サービスに掲載されているコンテンツ（情報、ソフトウェア、写真、画像、メッセージ等）を無断で複製・修正・変更する行為
+本サービス用インフラ設備に対して過度な負担となるストレスをかける行為
+コンピューターウィルス、有害なプログラムを仕様またはそれを誘発する行為
+本サービスの一部または全部をリバースエンジニアリング、逆コンパイル、逆アセンブラ、その他本サービスを解析する行為
+本サービス用インフラ設備に対して過度な負担となるストレスをかける行為
+上記の他、当社が不適切と判断する行為
+
+
+## 第6条 免責事項
+
+本サービスが利用者の特定の目的に適合すること、期待する機能・商品的価値・正確性・有用性を有すること、および不具合が生じないことについて、何ら保証するものではありません。
+当方の都合により本サービスの仕様を変更できます。
+私たちは、本サービスの提供の終了、変更、または利用不能、本サービスの利用によるデータの消失または機械の故障もしくは損傷、その他本サービスに関して利用者が被った損害につき、賠償する責任を一切負わないものとします。
+
+利用上の不具合・不都合に対して可能な限りサポートを行っておりますが、利用者が本サービスを利用して生じた損害に関して、開発元は責任を負わないものとします。
+
+## 第7条 著作権・知的財産権等
+著作権その他一切の権利は、当方又は権利を有する第三者に帰属します。
